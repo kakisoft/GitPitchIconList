@@ -1,5 +1,6 @@
 ### GitPitchで使えるアイコンリスト
-（アイコンが出るかどうか、並べて配置してみただけ）
+（アイコンが出るかどうか、  
+並べて配置してみただけ）
 ---
 @snap[west]
 @fa[accessible-icon](accessible-icon)  
