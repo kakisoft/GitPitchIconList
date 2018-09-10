@@ -1,3 +1,5 @@
+### GitPitchで使えるアイコンリスト
+---
 @snap[west]
 @fa[accessible-icon](accessible-icon)  
 @fa[american-sign-language-interpreting](american-sign-language-interpreting)  
