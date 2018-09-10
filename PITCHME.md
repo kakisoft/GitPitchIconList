@@ -19,13 +19,13 @@
 
 @snap[east]
 @fa[tty](tty)  
-@fa[universal-access](universal-access)  
+@fa[fish](fish)  
 @fa[wheelchair](wheelchair)  
 @fa[crow](crow)  
 @fa[dove](dove)  
 @fa[feather](feather)  
 @fa[feather-alt](feather-alt)  
-@fa[fish](fish)  
+@fa[universal-access](universal-access)  
 @fa[frog](frog)  
 @fa[kiwi-bird](kiwi-bird)  
 @fa[angle-double-down](angle-double-down)  
