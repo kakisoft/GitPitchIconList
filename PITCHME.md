@@ -1,5 +1,3 @@
-### GitPitchで使えるアイコンリスト
----
 @fa[accessible-icon](accessible-icon)
 @fa[american-sign-language-interpreting](american-sign-language-interpreting)
 @fa[assistive-listening-systems](assistive-listening-systems)
@@ -14,6 +12,7 @@
 @fa[sign-language](sign-language)
 @fa[tty](tty)
 @fa[universal-access](universal-access)
+---
 @fa[wheelchair](wheelchair)
 @fa[crow](crow)
 @fa[dove](dove)
@@ -29,6 +28,7 @@
 @fa[angle-down](angle-down)
 @fa[angle-left](angle-left)
 @fa[angle-right](angle-right)
+---
 @fa[angle-up](angle-up)
 @fa[arrow-alt-circle-down](arrow-alt-circle-down)
 @fa[arrow-alt-circle-left](arrow-alt-circle-left)
@@ -44,6 +44,7 @@
 @fa[arrow-up](arrow-up)
 @fa[arrows-alt](arrows-alt)
 @fa[arrows-alt-h](arrows-alt-h)
+---
 @fa[arrows-alt-v](arrows-alt-v)
 @fa[caret-down](caret-down)
 @fa[caret-left](caret-left)
@@ -59,6 +60,7 @@
 @fa[chevron-circle-left](chevron-circle-left)
 @fa[chevron-circle-right](chevron-circle-right)
 @fa[chevron-circle-up](chevron-circle-up)
+---
 @fa[chevron-down](chevron-down)
 @fa[chevron-left](chevron-left)
 @fa[chevron-right](chevron-right)
@@ -74,6 +76,7 @@
 @fa[hand-point-left](hand-point-left)
 @fa[hand-point-right](hand-point-right)
 @fa[hand-point-up](hand-point-up)
+---
 @fa[hand-pointer](hand-pointer)
 @fa[history](history)
 @fa[level-down-alt](level-down-alt)
@@ -89,6 +92,7 @@
 @fa[recycle](recycle)
 @fa[redo](redo)
 @fa[redo-alt](redo-alt)
+---
 @fa[reply](reply)
 @fa[reply-all](reply-all)
 @fa[retweet](retweet)
@@ -104,6 +108,7 @@
 @fa[sort-down](sort-down)
 @fa[sort-numeric-down](sort-numeric-down)
 @fa[sort-numeric-up](sort-numeric-up)
+---
 @fa[sort-up](sort-up)
 @fa[sync](sync)
 @fa[sync-alt](sync-alt)
@@ -119,6 +124,7 @@
 @fa[eject](eject)
 @fa[expand](expand)
 @fa[fast-backward](fast-backward)
+---
 @fa[fast-forward](fast-forward)
 @fa[file-audio](file-audio)
 @fa[file-video](file-video)
@@ -134,6 +140,7 @@
 @fa[pause-circle](pause-circle)
 @fa[play-circle](play-circle)
 @fa[podcast](podcast)
+---
 @fa[rss](rss)
 @fa[rss-square](rss-square)
 @fa[step-backward](step-backward)
@@ -149,6 +156,7 @@
 @fa[ambulance](ambulance)
 @fa[bus](bus)
 @fa[bus-alt](bus-alt)
+---
 @fa[car](car)
 @fa[car-alt](car-alt)
 @fa[car-battery](car-battery)
@@ -164,6 +172,7 @@
 @fa[truck](truck)
 @fa[truck-monster](truck-monster)
 @fa[truck-pickup](truck-pickup)
+---
 @fa[building](building)
 @fa[church](church)
 @fa[gopuram](gopuram)
@@ -179,6 +188,7 @@
 @fa[university](university)
 @fa[vihara](vihara)
 @fa[address-book](address-book)
+---
 @fa[address-card](address-card)
 @fa[archive](archive)
 @fa[balance-scale](balance-scale)
@@ -194,6 +204,7 @@
 @fa[certificate](certificate)
 @fa[chart-area](chart-area)
 @fa[chart-bar](chart-bar)
+---
 @fa[chart-pie](chart-pie)
 @fa[city](city)
 @fa[clipboard](clipboard)
@@ -209,6 +220,7 @@
 @fa[envelope-square](envelope-square)
 @fa[eraser](eraser)
 @fa[fax](fax)
+---
 @fa[file](file)
 @fa[file-alt](file-alt)
 @fa[folder](folder)
@@ -224,6 +236,7 @@
 @fa[paste](paste)
 @fa[pen](pen)
 @fa[pen-alt](pen-alt)
+---
 @fa[pen-fancy](pen-fancy)
 @fa[pen-nib](pen-nib)
 @fa[pen-square](pen-square)
@@ -239,6 +252,7 @@
 @fa[sitemap](sitemap)
 @fa[socks](socks)
 @fa[sticky-note](sticky-note)
+---
 @fa[stream](stream)
 @fa[table](table)
 @fa[tag](tag)
@@ -254,6 +268,7 @@
 @fa[hand-holding-usd](hand-holding-usd)
 @fa[hands-helping](hands-helping)
 @fa[handshake](handshake)
+---
 @fa[heart](heart)
 @fa[leaf](leaf)
 @fa[parachute-box](parachute-box)
@@ -269,6 +284,7 @@
 @fa[meh](meh)
 @fa[poo](poo)
 @fa[quote-left](quote-left)
+---
 @fa[quote-right](quote-right)
 @fa[smile](smile)
 @fa[video-slash](video-slash)
@@ -284,6 +300,7 @@
 @fa[barcode](barcode)
 @fa[bath](bath)
 @fa[bug](bug)
+---
 @fa[code](code)
 @fa[code-branch](code-branch)
 @fa[file-code](file-code)
@@ -299,6 +316,7 @@
 @fa[window-maximize](window-maximize)
 @fa[window-minimize](window-minimize)
 @fa[window-restore](window-restore)
+---
 @fa[at](at)
 @fa[bell](bell)
 @fa[bell-slash](bell-slash)
@@ -314,6 +332,7 @@
 @fa[database](database)
 @fa[desktop](desktop)
 @fa[hdd](hdd)
+---
 @fa[laptop](laptop)
 @fa[memory](memory)
 @fa[plug](plug)
@@ -329,6 +348,7 @@
 @fa[gg](gg)
 @fa[gg-circle](gg-circle)
 @fa[lira-sign](lira-sign)
+---
 @fa[money-bill](money-bill)
 @fa[money-bill-alt](money-bill-alt)
 @fa[money-bill-wave](money-bill-wave)
@@ -344,6 +364,7 @@
 @fa[calendar-check](calendar-check)
 @fa[calendar-minus](calendar-minus)
 @fa[calendar-plus](calendar-plus)
+---
 @fa[calendar-times](calendar-times)
 @fa[clock](clock)
 @fa[hourglass](hourglass)
@@ -359,6 +380,7 @@
 @fa[crop-alt](crop-alt)
 @fa[crosshairs](crosshairs)
 @fa[drafting-compass](drafting-compass)
+---
 @fa[draw-polygon](draw-polygon)
 @fa[eye](eye)
 @fa[eye-dropper](eye-dropper)
@@ -374,6 +396,7 @@
 @fa[palette](palette)
 @fa[pencil-ruler](pencil-ruler)
 @fa[ruler-combined](ruler-combined)
+---
 @fa[ruler-horizontal](ruler-horizontal)
 @fa[ruler-vertical](ruler-vertical)
 @fa[splotch](splotch)
@@ -389,6 +412,7 @@
 @fa[align-right](align-right)
 @fa[bold](bold)
 @fa[font](font)
+---
 @fa[heading](heading)
 @fa[i-cursor](i-cursor)
 @fa[indent](indent)
@@ -404,6 +428,7 @@
 @fa[strikethrough](strikethrough)
 @fa[subscript](subscript)
 @fa[superscript](superscript)
+---
 @fa[th](th)
 @fa[th-large](th-large)
 @fa[th-list](th-list)
@@ -419,6 +444,7 @@
 @fa[book-reader](book-reader)
 @fa[chalkboard-teacher](chalkboard-teacher)
 @fa[graduation-cap](graduation-cap)
+---
 @fa[laptop-code](laptop-code)
 @fa[microscope](microscope)
 @fa[shapes](shapes)
@@ -434,6 +460,7 @@
 @fa[grin-beam](grin-beam)
 @fa[grin-beam-sweat](grin-beam-sweat)
 @fa[grin-hearts](grin-hearts)
+---
 @fa[grin-squint](grin-squint)
 @fa[grin-squint-tears](grin-squint-tears)
 @fa[grin-stars](grin-stars)
@@ -449,6 +476,7 @@
 @fa[laugh-beam](laugh-beam)
 @fa[laugh-squint](laugh-squint)
 @fa[laugh-wink](laugh-wink)
+---
 @fa[meh-blank](meh-blank)
 @fa[meh-rolling-eyes](meh-rolling-eyes)
 @fa[sad-cry](sad-cry)
@@ -464,6 +492,7 @@
 @fa[file-powerpoint](file-powerpoint)
 @fa[file-word](file-word)
 @fa[genderless](genderless)
+---
 @fa[mars](mars)
 @fa[mars-double](mars-double)
 @fa[mars-stroke](mars-stroke)
@@ -479,6 +508,7 @@
 @fa[allergies](allergies)
 @fa[hand-holding](hand-holding)
 @fa[hand-lizard](hand-lizard)
+---
 @fa[hand-paper](hand-paper)
 @fa[hand-peace](hand-peace)
 @fa[hand-rock](hand-rock)
@@ -494,6 +524,7 @@
 @fa[prescription](prescription)
 @fa[stethoscope](stethoscope)
 @fa[user-md](user-md)
+---
 @fa[bolt](bolt)
 @fa[camera](camera)
 @fa[camera-retro](camera-retro)
@@ -509,6 +540,7 @@
 @fa[check](check)
 @fa[check-circle](check-circle)
 @fa[check-double](check-double)
+---
 @fa[check-square](check-square)
 @fa[cloud](cloud)
 @fa[cog](cog)
@@ -524,6 +556,7 @@
 @fa[file-import](file-import)
 @fa[file-upload](file-upload)
 @fa[fingerprint](fingerprint)
+---
 @fa[flag](flag)
 @fa[flag-checkered](flag-checkered)
 @fa[grip-horizontal](grip-horizontal)
@@ -539,6 +572,7 @@
 @fa[plus-circle](plus-circle)
 @fa[question](question)
 @fa[search](search)
+---
 @fa[search-minus](search-minus)
 @fa[search-plus](search-plus)
 @fa[share-alt](share-alt)
@@ -554,6 +588,7 @@
 @fa[user](user)
 @fa[user-alt](user-alt)
 @fa[user-circle](user-circle)
+---
 @fa[box](box)
 @fa[boxes](boxes)
 @fa[clipboard-check](clipboard-check)
@@ -569,6 +604,7 @@
 @fa[binoculars](binoculars)
 @fa[bomb](bomb)
 @fa[bookmark](bookmark)
+---
 @fa[directions](directions)
 @fa[fighter-jet](fighter-jet)
 @fa[fire](fire)
@@ -584,6 +620,7 @@
 @fa[magnet](magnet)
 @fa[male](male)
 @fa[map](map)
+---
 @fa[map-marker](map-marker)
 @fa[map-marker-alt](map-marker-alt)
 @fa[map-pin](map-pin)
@@ -599,6 +636,7 @@
 @fa[shoe-prints](shoe-prints)
 @fa[shopping-bag](shopping-bag)
 @fa[shopping-basket](shopping-basket)
+---
 @fa[shopping-cart](shopping-cart)
 @fa[shower](shower)
 @fa[street-view](street-view)
@@ -614,6 +652,7 @@
 @fa[wine-glass](wine-glass)
 @fa[ad](ad)
 @fa[comment-dollar](comment-dollar)
+---
 @fa[comments-dollar](comments-dollar)
 @fa[envelope-open-text](envelope-open-text)
 @fa[funnel-dollar](funnel-dollar)
@@ -629,6 +668,7 @@
 @fa[infinity](infinity)
 @fa[less-than](less-than)
 @fa[less-than-equal](less-than-equal)
+---
 @fa[not-equal](not-equal)
 @fa[percentage](percentage)
 @fa[square-root-alt](square-root-alt)
@@ -644,6 +684,7 @@
 @fa[dna](dna)
 @fa[file-medical](file-medical)
 @fa[file-medical-alt](file-medical-alt)
+---
 @fa[file-prescription](file-prescription)
 @fa[first-aid](first-aid)
 @fa[hospital-symbol](hospital-symbol)
@@ -659,6 +700,7 @@
 @fa[smoking](smoking)
 @fa[smoking-ban](smoking-ban)
 @fa[star-of-life](star-of-life)
+---
 @fa[syringe](syringe)
 @fa[tablets](tablets)
 @fa[teeth](teeth)
@@ -674,6 +716,7 @@
 @fa[people-carry](people-carry)
 @fa[sign](sign)
 @fa[tape](tape)
+---
 @fa[truck-loading](truck-loading)
 @fa[truck-moving](truck-moving)
 @fa[blender](blender)
@@ -689,6 +732,7 @@
 @fa[dice-three](dice-three)
 @fa[dice-two](dice-two)
 @fa[digital-tachograph](digital-tachograph)
+---
 @fa[door-closed](door-closed)
 @fa[door-open](door-open)
 @fa[drum](drum)
@@ -704,6 +748,7 @@
 @fa[snowflake](snowflake)
 @fa[space-shuttle](space-shuttle)
 @fa[stroopwafel](stroopwafel)
+---
 @fa[sun](sun)
 @fa[toolbox](toolbox)
 @fa[unlock](unlock)
@@ -719,6 +764,7 @@
 @fa[cc-discover](cc-discover)
 @fa[cc-jcb](cc-jcb)
 @fa[cc-mastercard](cc-mastercard)
+---
 @fa[cc-paypal](cc-paypal)
 @fa[cc-stripe](cc-stripe)
 @fa[cc-visa](cc-visa)
@@ -734,6 +780,7 @@
 @fa[hamsa](hamsa)
 @fa[haykal](haykal)
 @fa[jedi](jedi)
+---
 @fa[journal-whills](journal-whills)
 @fa[kaaba](kaaba)
 @fa[khanda](khanda)
@@ -749,6 +796,7 @@
 @fa[torah](torah)
 @fa[yin-yang](yin-yang)
 @fa[square](square)
+---
 @fa[asterisk](asterisk)
 @fa[circle-notch](circle-notch)
 @fa[spinner](spinner)
@@ -764,6 +812,7 @@
 @fa[volleyball-ball](volleyball-ball)
 @fa[battery-empty](battery-empty)
 @fa[battery-full](battery-full)
+---
 @fa[battery-half](battery-half)
 @fa[battery-quarter](battery-quarter)
 @fa[battery-three-quarters](battery-three-quarters)
@@ -779,6 +828,7 @@
 @fa[atlas](atlas)
 @fa[cocktail](cocktail)
 @fa[concierge-bell](concierge-bell)
+---
 @fa[glass-martini-alt](glass-martini-alt)
 @fa[globe-africa](globe-africa)
 @fa[globe-americas](globe-americas)
@@ -794,6 +844,7 @@
 @fa[plane-departure](plane-departure)
 @fa[spa](spa)
 @fa[suitcase-rolling](suitcase-rolling)
+---
 @fa[swimmer](swimmer)
 @fa[swimming-pool](swimming-pool)
 @fa[umbrella-beach](umbrella-beach)
@@ -809,6 +860,7 @@
 @fa[user-lock](user-lock)
 @fa[user-minus](user-minus)
 @fa[user-ninja](user-ninja)
+---
 @fa[user-plus](user-plus)
 @fa[user-shield](user-shield)
 @fa[user-tag](user-tag)
